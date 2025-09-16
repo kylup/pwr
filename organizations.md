@@ -29,6 +29,11 @@
   archive](https://us14.campaign-archive.com/home/?u=93a008132c75132948ad34320&id=444af7067f). Each
   newletter contains an **Actions to Take NOW** section.
 
+* [MoveOn](https://front.moveon.org/)
+
+  MoveOn (formerly known as MoveOn.org) is a progressive public policy
+  advocacy group and political action committee.
+
 * [5 Calls](https://5calls.org)
 
   Make your voice heard. 5 Calls is the easiest and most effective way
@@ -129,7 +134,43 @@
 
 * [Red Wine and Blue](https://redwine.blue)
 
+* [Women's Democratic Club of Montgomery County](https://www.womensdemocraticclub.org/)
+
+  Join the Women's Democratic Club (WDC) to help elect Democrats who
+  are committed to our communities. Advocate for key state and local
+  issues that impact women.
+
+* [Rural Ground Game](https://ruralgroundgame.org)
+
+  Trying to address the Democrats' rural problem. Actions can be found on [Mobilize](https://www.mobilize.us/ruralgroundgame). There was also a good interview with Lynlee Thorne on the Daily Blast podcast on Aug 28.
+
+* [Free DC](https://freedcproject.org)
+
+  Free DC is a renewed campaign to protect home rule and win lasting
+  dignity for our communities. Provides a calendar of [upcoming
+  events](https://freedcproject.org/events).
+
+* [End Citizens United](https://endcitizensunited.org)
+
+* [Environmental Protection Network](https://environmentalprotectionnetwork.org)
+
+* [Rising Organizers](https://risingorganizers.org)
+
+## Mutual Aid
+
+* [DC Community Orgs List](https://docs.google.com/spreadsheets/d/1g8S3GfvA5PtJLB_1tLqNohCf4aJZzqGC/htmlview)
+
 * [CASA](https://wearecasa.org)
+
+* [Movement Infrastructure Project](https://www.movementinfrastructureproject.org/)
+
+* [Food Justice DMV](https://www.foodjusticedmv.org/)
+
+* [W4MA](https://ward4mutualaid.org)
+
+* [Migrant Solidarity Mutual Aid](https://dcmigrantmutualaid.org)
+  (posts on
+  [Bluesky](https://bsky.app/profile/dcmigrantmutualaid.org))
 
 ## Tracking the (lame) Dems
 

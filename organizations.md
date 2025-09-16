@@ -29,6 +29,11 @@
   archive](https://us14.campaign-archive.com/home/?u=93a008132c75132948ad34320&id=444af7067f). Each
   newletter contains an **Actions to Take NOW** section.
 
+* [5 Calls](https://5calls.org)
+
+  Make your voice heard. 5 Calls is the easiest and most effective way
+  for U.S. constituents to make a political impact.
+
 * [Silver Spring Progressive Action](https://ssprogressiveaction.org)
 
   Involved in voter registration, letter- and postcard-writing,
@@ -123,6 +128,8 @@
 * [Transparent Election Initiative](https://transparentelection.org/)
 
 * [Red Wine and Blue](https://redwine.blue)
+
+* [CASA](https://wearecasa.org)
 
 ## Tracking the (lame) Dems
 

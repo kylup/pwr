@@ -51,12 +51,12 @@
   democratic society. We advocate for media reform.  We empower people
   with tools to take meaningful action.
 
-  * mediaanddemocracyproject.org/journalism-directory/
+  * [Local journalism](https://mediaanddemocracyproject.org/journalism-directory/)
 
     Directory to help you find local journalism in your area worth
     reading and supporting. Look for sources in your area.
 
-  * mobilize.us/mediademocracyproject/event/430177/
+  * [Virtual sessions](https://mobilize.us/mediademocracyproject/event/430177/)
 
     Join the Media and Democracy Project to better understand and
     respond to the factors that influence public opinion, voters and
@@ -89,7 +89,7 @@
   Local Majority's mission is to provide research reports about the
   most important issues for Democratic candidates.
 
-  * localmajority.org/write_ceos/write_ceos_details/
+  * [CEOs Campaign](https://localmajority.org/write_ceos/write_ceos_details/)
 
     A letter writing campaign to ask the CEOs of major companies to
     publicly stand up for democracy and the rule of law. Although one
@@ -123,4 +123,43 @@
 * [Transparent Election Initiative](https://transparentelection.org/)
 
 * [Red Wine and Blue](https://redwine.blue)
+
+## Tracking the (lame) Dems
+
+* [DNC](https://democrats.org)
+
+  Main site for the Democratic Party. 
+
+  * [Organizing Summer](https://ak.democrats.org/event/training)
+
+    Volunteer training, phone banks, and organizing briefings schedule.
+
+* [Litigation/Response Task Force](https://litigationandresponse.house.gov)
+
+  Information on the House Democrats so-called Rapid Response Task
+  Force and Litigation Working Group
+
+* [Not Above the Law Coalition](https://notabovethelawcoalition.org)
+
+  H.J. Res 115 - Terminating the emergency determined by the President
+  on August 11, 2025, in the Executive Order titled "Declaring a crime
+  emergency in the District of Columbia".
+
+  Sponsored by and aligned with Jamie Raskin
+
+## Groups working through the courts
+
+* [Democracy Docket](https://democracydocket.com)
+
+  Marc Elias
+
+* [Democracy Forward](https://democracyforward.com)
+
+  Skye Perryman
+
+* [Public Citizen](https://citizen.org)
+
+  18 (so far) lawsuits against the Trump regime.
+
+* [Democratic Attorneys General Association](https://dems.ag)
 

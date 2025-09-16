@@ -39,3 +39,88 @@
   Go to their [calendar](https://ssprogressiveaction.org/calendar) for
   information on events and how to register.
 
+* [One Million Rising](https://www.youtube.com/@onemillionrising)
+
+  Three sessions/recordings of the One Million Rising national
+  training calls -- the tools and strategy you need to to fight
+  authoritarianism
+
+* [Media and Democracy Project](https://mediaanddemocracyproject.org)
+
+  We believe a well-informed citizenry is the foundation of a
+  democratic society. We advocate for media reform.  We empower people
+  with tools to take meaningful action.
+
+  * mediaanddemocracyproject.org/journalism-directory/
+
+    Directory to help you find local journalism in your area worth
+    reading and supporting. Look for sources in your area.
+
+  * mobilize.us/mediademocracyproject/event/430177/
+
+    Join the Media and Democracy Project to better understand and
+    respond to the factors that influence public opinion, voters and
+    democracy. Each session we will activate on a current
+    information-related subject to help Fix Media Now.
+
+* [50501](https://fiftyfifty.one)
+
+  50 protests. 50 states. 1 movement. Join in the fight to uphold the
+  Constitution and end executive overreach.
+
+* [ACLU](https://aclu.org)
+
+  Defends the rights of all people nationwide with immigrant rights,
+  trans justice, reproductive freedom, and more at risk.
+
+  * [ACLU People Power](https://aclu.org/campaigns-initiatives/people-power)
+
+    People power is the ACLU’s grassroots network of activists,
+    volunteers, and supporters organizing in their communities to
+    protect our rights and demand lasting change
+
+* [Local Majority](https://localmajority.org)
+
+  State legislatures not only create the laws that affect the everyday
+  lives of constituents, they also play a critical role in determining
+  the districts for the U.S. House of Representatives and thus the
+  fate of the entire country.
+
+  Local Majority's mission is to provide research reports about the
+  most important issues for Democratic candidates.
+
+  * localmajority.org/write_ceos/write_ceos_details/
+
+    A letter writing campaign to ask the CEOs of major companies to
+    publicly stand up for democracy and the rule of law. Although one
+    letter is unlikely to sway these leaders, an avalanche will
+    encourage them to take a stand.
+
+* [Third Act](https://thirdact.org/)
+
+  Community of Americans over sixty determined to change the world for
+  the better. Primarily focused on safeguarding our climate and
+  democracy.
+
+  * Local working group is at [Third Act
+    Maryland](https://thirdact.org/maryland/)
+
+* [Chesapeake Climate Action Network](https://chesapeakeclimate.org/)
+
+  Building a movement to fight climate change across our region and
+  beyond.
+
+* [Metro DC DSA](https://mdcdsa.org/)
+
+  Organize to build workplace democracy, demand a right to housing,
+  confront immigration detention profiteers, stand up to Amazon,
+  ensure a just transition, and fight fascism. DSA’s membership is
+  currently the largest in our history, with approximately 70,000
+  national members and growing every day.
+
+* [No Kings](https://www.nokings.org/)
+
+* [Transparent Election Initiative](https://transparentelection.org/)
+
+* [Red Wine and Blue](https://redwine.blue)
+

@@ -172,6 +172,20 @@
   (posts on
   [Bluesky](https://bsky.app/profile/dcmigrantmutualaid.org))
 
+* [Solidarity in
+  Action](https://www.youtube.com/playlist?list=PLS73jRQ3qBiXgwu0aLQ7Oon-lx-MpbFAB)
+  (training videos playlist on Indivisible YouTube channel)
+
+* [Resist and Build](https://resistandbuild.net)
+
+  Uniting for the solidarity economy. Where changemakers connect,
+  learn, and collaborate
+
+* [Mutual Aid Network](https://mutualaidnetwork.org)
+
+  A cooperative network of peer support for building and living a
+  mutual aid economy
+
 ## Tracking the (lame) Dems
 
 * [DNC](https://democrats.org)

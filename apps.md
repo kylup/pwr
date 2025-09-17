@@ -26,9 +26,9 @@
 
 * [coqui](https://juntospodemos.life/en)
 
-  With Coquí, you can quickly flag activities, instantly alert your
-  trusted network and receive notifications when you're near reported
-  locations.
+  With Coquí, you can quickly flag ICE activities, instantly alert
+  your trusted network and receive notifications when you're near
+  reported locations.
 
   See articles in [Newsweek
   ](https://www.newsweek.com/new-app-coqui-ice-immigration-new-york-2103414),

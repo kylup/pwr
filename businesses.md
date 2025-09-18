@@ -7,6 +7,7 @@
 * New York Times - Sane washing Trump, anti-trans framing
 * Meta, Facebook, Instagram - Cringey Zuckerberg capitulation and ass-kissing
 * Apple - Fawning Tim Cook capitulation and ass-kissing
+* Wells Fargo - For eliminating climate targets, union busting, attempts to privatize the post office, and financing companies that are engaging in the war on immigrants and the atrocities in Gaza.
 
 # Support
 

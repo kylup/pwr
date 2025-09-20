@@ -20,9 +20,10 @@
   report Immigration and Customs Enforcement (ICE) activity with just
   two taps on their phone.
 
-  CAUTION - We have be made aware of malicious entities trying to harm
-  people by posting fake downloads and source code. DO NOT download
-  ICEBlock from anywhere except the Apple AppStore (from the website).
+  CAUTION - (From the website) We have be made aware of malicious
+  entities trying to harm people by posting fake downloads and source
+  code. DO NOT download ICEBlock from anywhere except the Apple
+  AppStore.
 
 * [coqui](https://juntospodemos.life/en)
 

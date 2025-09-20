@@ -150,6 +150,30 @@
   dignity for our communities. Provides a calendar of [upcoming
   events](https://freedcproject.org/events).
 
+* [Activate America](https://www.activateamerica.vote/)
+
+  We empower volunteers to take action. We focus on reaching voters in
+  key districts to flip seats from red-to-blue and hold onto some of
+  the most vulnerable US House and Senate seats.
+
+* [Field Team 6](https://fieldteam6.org)
+
+  Register Democrats. Save the World. Field Team 6 is a volunteer army
+  doing partisan voter registration at the largest scale and lowest
+  cost ever seen.
+
+* [J Walkers Action Group](https://www.jwalkersactiongroup.org/)
+
+  Works to build communities of dedicated volunteers, trained leaders
+  and effective partnerships through phone banks, in person
+  canvassing, and texting campaigns. A 100% volunteer organization
+  focused on electing Democrats and supporting democratic causes
+  through voter contact.
+
+* [Common Cause](https://commoncause.org)
+
+* [Environmental Voter Project](https://environmentalvoter.org)
+
 * [End Citizens United](https://endcitizensunited.org)
 
 * [Environmental Protection Network](https://environmentalprotectionnetwork.org)
@@ -186,7 +210,7 @@
   A cooperative network of peer support for building and living a
   mutual aid economy
 
-## Tracking the (lame) Dems
+## Tracking the Dems
 
 * [DNC](https://democrats.org)
 

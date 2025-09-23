@@ -29,6 +29,17 @@
   archive](https://us14.campaign-archive.com/home/?u=93a008132c75132948ad34320&id=444af7067f). Each
   newletter contains an **Actions to Take NOW** section.
 
+* [Do The Most Good](https://www.dothemostgoodmoco.org/)
+
+  DoTheMostGood (DTMG) is a grassroots organization based in
+  Montgomery County with members across the county. Unites like-minded
+  people and partner organizations in political action and civic
+  engagement to further inclusive, progressive values locally and
+  nationally.
+
+  Ready to get to work? Visit their website for upcoming canvassing
+  opportunities.
+
 * [MoveOn](https://front.moveon.org/)
 
   MoveOn (formerly known as MoveOn.org) is a progressive public policy

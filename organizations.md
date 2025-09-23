@@ -180,6 +180,19 @@
 
 * [Rising Organizers](https://risingorganizers.org)
 
+* [Moco Immigrant Rights Collective](https://www.instagram.com/moco_irc/?hl=en)
+
+  MoCo Immigrant Rights Collective responds to ICE activity, hosts KYR
+  canvasses, trainings & shares resources to protect immigrants in
+  Maryland.
+
+* [National Day Laborer Organizing Network](https://ndlon.org/)
+
+  NDLON improves the lives of day laborers, migrants and low-wage
+  workers. Builds leadership and power among those facing injustice so
+  they can challenge inequality and expand labor, civil and political
+  rights for all.
+
 ## Mutual Aid
 
 * [DC Community Orgs List](https://docs.google.com/spreadsheets/d/1g8S3GfvA5PtJLB_1tLqNohCf4aJZzqGC/htmlview)

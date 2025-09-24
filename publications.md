@@ -1,14 +1,11 @@
 # Trusted Publications
 
-## Margaret's
-
 * The Guardian
 * The New Yorker
 * The Atlantic
 * Ground News
 * Vanity Fair
-
-## Kyle
+<br/>
 
 * Democracy Now
 * Business Insider
@@ -21,8 +18,7 @@
 * [The Lever](https://levernews.com)
 * Popular Information
 * Heather Cox Richardson
-
-## Miscellaneous
+<br/>
 
 * [Resistance Resources](https://linktr.ee/resistance_resources) - Popular linktree resources
 * [Courier Newsroom](https://couriernewsroom.com) - Pro-democracy news network

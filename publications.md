@@ -20,6 +20,7 @@
 * Heather Cox Richardson
 <br/>
 
+* [Zeteo](https://zeteo.com) - A new media organization founded by Mehdi Hasan. Zeteo is a movement for media accountability, unfiltered news and bold opinions.
 * [Resistance Resources](https://linktr.ee/resistance_resources) - Popular linktree resources
 * [Courier Newsroom](https://couriernewsroom.com) - Pro-democracy news network
 * [Current Affairs](https://currentaffairs.org) - A Magazine of Politics and Culture (Left leaning)

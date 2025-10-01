@@ -100,6 +100,10 @@
     volunteers, and supporters organizing in their communities to
     protect our rights and demand lasting change
 
+  * [No Troops on Our Streets](https://action.aclu.org/send-message/tell-congress-no-troops-our-streets)
+
+    Tell Congress: No Troops on Our Streets petition
+
 * [Local Majority](https://localmajority.org)
 
   State legislatures not only create the laws that affect the everyday
@@ -191,6 +195,18 @@
 
 * [Rising Organizers](https://risingorganizers.org)
 
+* [Vote Forward](https://votefwd.org/)
+
+  Drive election turnout. Restore democracy.  Vote Forward volunteers
+  test and scale new, high-impact tactics encouraging fellow Americans
+  to vote.
+
+* [Stop Trump!](https://stoptrump.substack.com/)
+
+  Local MoCo writer. This is a page (Substack) for people who are
+  interested in stopping Trump, as well as electing Democrats up and
+  down the ballot.
+
 * [Moco Immigrant Rights Collective](https://www.instagram.com/moco_irc/?hl=en)
 
   MoCo Immigrant Rights Collective responds to ICE activity, hosts KYR
@@ -256,6 +272,8 @@
   emergency in the District of Columbia".
 
   Sponsored by and aligned with Jamie Raskin
+
+* [Congressional Progressive Caucus Center](progressivecaucuscenter.org)
 
 ## Groups working through the courts
 

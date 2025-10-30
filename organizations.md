@@ -29,6 +29,13 @@
   archive](https://us14.campaign-archive.com/home/?u=93a008132c75132948ad34320&id=444af7067f). Each
   newletter contains an **Actions to Take NOW** section.
 
+* [31st Street Swing Left](https://www.31ststreet.org/)
+
+  A volunteer grassroots group that strategically supports progressive
+  candidates through canvassing, letter writing, voter registration
+  and other initatives to elect Democrats to state legislatures,
+  U.S. Congress, and the Presidency
+
 * [Do The Most Good](https://www.dothemostgoodmoco.org/)
 
   DoTheMostGood (DTMG) is a grassroots organization based in
@@ -158,6 +165,10 @@
 * [Rural Ground Game](https://ruralgroundgame.org)
 
   Trying to address the Democrats' rural problem. Actions can be found on [Mobilize](https://www.mobilize.us/ruralgroundgame). There was also a good interview with Lynlee Thorne on the Daily Blast podcast on Aug 28.
+
+* [Rural Organizing](https://ruralorganizing.org)
+
+  Interview with Matt Hildreth on Daily Blast podcast on Oct 22
 
 * [Free DC](https://freedcproject.org)
 
